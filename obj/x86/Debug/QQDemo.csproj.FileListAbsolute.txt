@@ -1,0 +1,45 @@
+E:\DataBus\Project\QQDemo - new\bin\Debug\QQDemo.exe.config
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.exe
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.pdb
+E:\DataBus\Project\QQDemo - new\bin\Debug\QQDemo.exe
+E:\DataBus\Project\QQDemo - new\bin\Debug\QQDemo.pdb
+E:\DataBus\Project\QQDemo - new\bin\Debug\zlib.net.dll
+E:\DataBus\Project\QQDemo - new\bin\Debug\log4net.dll
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.csprojResolveAssemblyReference.cache
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.ChatForm.resources
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.LoginForm.resources
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.IDCodeForm.resources
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.Properties.Resources.resources
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.QuoteForm.resources
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.SmsForm.resources
+E:\DataBus\Project\QQDemo - new\obj\x86\Debug\QQDemo.csproj.GenerateResource.Cache
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\bin\Debug\QQDemo.exe.config
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.exe
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.pdb
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\bin\Debug\QQDemo.exe
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\bin\Debug\QQDemo.pdb
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\bin\Debug\zlib.net.dll
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\bin\Debug\log4net.dll
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.csprojResolveAssemblyReference.cache
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.ChatForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.LoginForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.IDCodeForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.Properties.Resources.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.QuoteForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.SmsForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo - new\obj\x86\Debug\QQDemo.csproj.GenerateResource.Cache
+C:\Users\tangcheng.xu\Desktop\QQDemo\bin\Debug\QQDemo.exe.config
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.exe
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.pdb
+C:\Users\tangcheng.xu\Desktop\QQDemo\bin\Debug\QQDemo.exe
+C:\Users\tangcheng.xu\Desktop\QQDemo\bin\Debug\QQDemo.pdb
+C:\Users\tangcheng.xu\Desktop\QQDemo\bin\Debug\zlib.net.dll
+C:\Users\tangcheng.xu\Desktop\QQDemo\bin\Debug\log4net.dll
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.csprojResolveAssemblyReference.cache
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.ChatForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.LoginForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.IDCodeForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.Properties.Resources.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.QuoteForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.SmsForm.resources
+C:\Users\tangcheng.xu\Desktop\QQDemo\obj\x86\Debug\QQDemo.csproj.GenerateResource.Cache
